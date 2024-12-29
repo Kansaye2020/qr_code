@@ -58,4 +58,5 @@ input[type=text]{
     color: #fff;
     font-size: medium;
     font-weight: bold;
+    cursor: pointer;
 }
