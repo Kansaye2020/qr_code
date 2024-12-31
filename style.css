@@ -29,6 +29,7 @@ h2, h3, h4{
     width: 150px;
     height: 150px;
     margin-bottom: 20px;
+    border: 1px solid #ff00003c;
 }
 
 .container_containt {

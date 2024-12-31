@@ -9,4 +9,5 @@ generator.addEventListener("click", () => {
     } else {
         imageQr.src = `https://api.qrserver.com/v1/create-qr-code/?data=${inputText.value}&size=150x150`
     }
+    inputText.value = ""
 })
